@@ -1,4 +1,4 @@
 # GuessTheFlag-SwiftUI
 Guess the right flag and check your score.
 
-![Optional Text](../developer/Guess the Flag.png)
+![Optional Text](../developer/GuesstheFlag.png)
